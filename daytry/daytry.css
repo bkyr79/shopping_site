@@ -1,0 +1,31 @@
+body{
+  width: 100%;
+}
+img{
+  width: 100%;
+}
+.left{
+  float: left;
+  padding-top: 20px;
+  padding-left: 150px;
+}
+.right{
+  float: right;
+  padding-right: 150px;
+  display: table;
+}
+.right-first{
+  display: table-cell;
+  padding: 20px 20px;
+}
+.right-second{
+  display: table-cell;
+  padding: 20px 20px;
+}
+.right-third{
+  display: table-cell;
+  padding: 20px 20px;
+}
+.first{
+  text-align: center;
+}

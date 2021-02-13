@@ -50,7 +50,7 @@ if($staff_pass=='')
   print'パスワードが入力されていません。<br/>';
 }
 
-if($staff_name=='' || $staff_pass='' || $staff_pass!=$staff_pass2)
+if($staff_name=='' || $staff_pass=='' || $staff_pass!=$staff_pass2)
 {
   print'<form>';
   print'<input type="button" onclick="history.back()" value="戻る">';
