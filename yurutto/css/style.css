@@ -208,7 +208,22 @@ body {
   font-size: 30px;
   line-height: 35px;
 }
-.action-list p{
+.action-list2{
+  position: relative;
+  margin-left: 28px;
+  margin-bottom: 66px;
+  width: 307px;
+  height: 45px;
+  /* left: 33px; */
+  top: 0px;
+  left: 8px;
+  background: rgba(254, 168, 39, 0.4);
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  font-size: 30px;
+  line-height: 35px;
+}
+.action-list2 p{
   position: relative;
   top: 3px;
   /* left: 70px; */
